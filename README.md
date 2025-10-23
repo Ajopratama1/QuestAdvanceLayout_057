@@ -1,2 +1,2 @@
 TAMPILAN UI
-<img width="341" height="730" alt="image" src="https://github.com/user-attachments/assets/d0a0efcd-1043-4fe7-b54d-d8e60840d51d" />
+<img width="419" height="748" alt="image" src="https://github.com/user-attachments/assets/a297502a-e9d5-45f0-b60b-9f4e8e5dfbae" />
